@@ -1,0 +1,13 @@
+{
+	"name": "dub_bug",
+	"authors": [
+		"Rémi Thebault"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, Rémi Thebault",
+	"license": "MIT",
+
+	"dependencies-linux": {
+		"xcb-d": "~>2.1.0"
+	}
+}
